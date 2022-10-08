@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/tFDwGxYdlODbW7BtLj/giphy.gif" alt="watchdogs" width="1000" height="350">
+<div style="width:100%;height:0;padding-bottom:65%;position:relative;"><iframe src="https://giphy.com/embed/tFDwGxYdlODbW7BtLj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xbox-watch-dogs-legion-mind-the-gap-tFDwGxYdlODbW7BtLj">via GIPHY</a></p>
 
 # 🏄‍♂️ Cloak64Bit
 
