@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/If1s0MhzgLCSuc9K46/giphy.gif" alt="My Project GIF" width="500" height="600">
+<img src="https://media.giphy.com/media/If1s0MhzgLCSuc9K46/giphy.gif" alt="My Project GIF" width="1000" height="400">
 
 
 # 🏄‍♂️ Cloak64Bit
