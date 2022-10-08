@@ -1,10 +1,10 @@
-<img src="https://media.giphy.com/media/l3q2JvztR3AjtBxQs/giphy.gif" alt="watchdogs" width="1000" height="200">
+<img src="https://media.giphy.com/media/UuBLRtbf8QqImpwJn9/giphy.gif" alt="watchdogs" width="1000" height="200">
 
 # 🏄‍♂️ Cloak64Bit
 
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm an indie full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Client Project will not be displayed on my github at all.
+I'm an full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Client Project will not be displayed on my github at all and any code to do with financial market
 ---
 
 ### 🧰 Languages and Tools
